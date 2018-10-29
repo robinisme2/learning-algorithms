@@ -11,6 +11,7 @@ public class App {
 
 	}
 	
+	
 	private static int[] selectionSort(int a[]) {
 		for(int i = 0; i < a.length; i++) {
 			int min = a[i], index = i;
